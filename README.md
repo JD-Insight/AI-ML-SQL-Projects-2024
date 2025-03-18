@@ -1,4 +1,4 @@
-# Data-Science-Projects
+# Price-Prediction-Project
 Hi,
 
 This repository contains self-initiated data science projects aimed at enhancing my expertise and develop in project-based learning.
