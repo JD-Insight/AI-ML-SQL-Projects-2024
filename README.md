@@ -8,20 +8,17 @@ The primary objective of this project is to analyze stock price trends over time
 
 [Price Prediction](https://github.com/JD-Insight/Data-Science-Projects/blob/main/Price%20Prediction%20Project.ipynb)
 
-The dataset contains historical stock price data for EXIDEIND, sourced directly from NSE using python API. It covers daily stock prices and other key financial metrices.
+**Skills**
+Data cleaning, exploratory data analysis, data visualization, correlation, linear regression, performance metrices, cross validation.
 
-Features Included in the Dataset:
+**Technology**
+Python, Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn
 
-* Symbol - Name of the stock
-* Series - Trading segment
-* Date - Trading day recorded
-* Open Price - Price at market open
-* High Price - Highest price of the day
-* Low Price - Lowest price of the day
-* Close Price - Price at market close
-* Average Price - Weighted average price
-* Total Traded Quantity - Total shares traded
-* Turnover - Total value of shares traded
+**Results**
+Python functions are used to analyze the data and predict the closing price. The model generalized well and was able to predict the values close to the actuals.
+
+
+
 
 
 
