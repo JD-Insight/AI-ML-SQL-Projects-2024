@@ -14,14 +14,18 @@ Data cleaning, exploratory data analysis, data visualization, correlation, linea
 **Technology:**
 Python, Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn
 
-**Results:**
+**Result:**
 Python functions are used to analyze the data and predict the closing price. The model generalized well and was able to predict the values close to the actuals.
 
+**Product Sales Data Analysis**
 
+**Description:**
+The dataset contains a list of sales records along with other relevant informations. This sales data analysis project explores analyzing a company's sales data and indicating profit by product, sales, and other significant factors that might influence the company's performance.
 
+[Sales Data Analysis](https://github.com/JD-Insight/Data-Science-Projects/blob/main/Product%20Sales%20Data%20Analysis.xlsx)
 
+**Skills:**
+Data cleaning, data analysis, data visualization.
 
-
-
-
-
+**Technology:**
+Excel, Power Query, Power Pivot, DAX, Pivot Tables.
