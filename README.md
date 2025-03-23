@@ -22,7 +22,7 @@ Python functions are used to analyze the data and predict the closing price. The
 **Description:**
 The dataset contains a list of sales records along with other relevant informations. This sales data analysis project explores analyzing a company's sales data and indicating profit by product, sales, and other significant factors that might influence the company's performance.
 
-[Sales Data Analysis](https://github.com/JD-Insight/Data-Science-Projects/blob/main/Product%20Sales%20Data%20Analysis.xlsx)
+[Sales Data Analysis](https://github.com/JD-Insight/Data-Science-Projects/blob/main/Product%20Sales%20Data%20Analysis.png)
 
 **Skills:**
 Data cleaning, data analysis, data visualization.
