@@ -8,13 +8,13 @@ The primary objective of this project is to analyze stock price trends over time
 
 [Price Prediction](https://github.com/JD-Insight/Data-Science-Projects/blob/main/Price%20Prediction%20Project.ipynb)
 
-Skills:<br>
+**Skills:<br>**
 Data cleaning, exploratory data analysis, data visualization, correlation, linear regression, performance metrices, cross validation.
 
-Technology:<br>
+**Technology:**
 Python, Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn
 
-Result:<br>
+**Result:**
 Python functions are used to analyze the data and predict the closing price. The model generalized well and was able to predict the values close to the actuals.
 
 
