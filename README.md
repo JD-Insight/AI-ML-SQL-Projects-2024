@@ -1,9 +1,9 @@
 # Portfolio Projects
 This repository contains self-initiated data science projects aimed at enhancing my expertise in project-based learning.
 
-<br>Stock Price Prediction</br>
+**Stock Price Prediction**
 
-**Description:**
+<em>Description</em>
 The primary objective of this project is to analyze stock price trends over time, develop a predictive model to forecast closing prices, evaluate its performance using key metrics, and derive actionable insights through data visualization.
 
 [Price Prediction](https://github.com/JD-Insight/Data-Science-Projects/blob/main/Price%20Prediction%20Project.ipynb)
