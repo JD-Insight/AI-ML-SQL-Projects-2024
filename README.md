@@ -3,13 +3,12 @@ This repository contains self-initiated data science projects aimed at enhancing
 
 **Stock Price Prediction**
 
-**Description:**
-
+**Description:<br>**
 The primary objective of this project is to analyze stock price trends over time, develop a predictive model to forecast closing prices, evaluate its performance using key metrics, and derive actionable insights through data visualization.
 
 [Price Prediction](https://github.com/JD-Insight/Data-Science-Projects/blob/main/Price%20Prediction%20Project.ipynb)
 
-**Skills:<br>**
+**Skills:**
 Data cleaning, exploratory data analysis, data visualization, correlation, linear regression, performance metrices, cross validation.
 
 **Technology:**
@@ -21,7 +20,7 @@ Python functions are used to analyze the data and predict the closing price. The
 
 **Product Sales Data Analysis**
 
-**Description:**
+**Description:<br>**
 The dataset contains a list of sales records along with other relevant informations. This sales data analysis project explores analyzing a company's sales data and indicating profit by product, sales, and other significant factors that might influence the company's performance.
 
 [Sales Data Analysis](https://github.com/JD-Insight/Data-Science-Projects/blob/main/Product%20Sales%20Data%20Analysis.png)
@@ -32,17 +31,18 @@ Data cleaning, data analysis, data visualization.
 **Technology:**
 Excel, Power Query, Power Pivot, DAX, Pivot Tables.
 
+
 **Company Employees - SQL Project**
 
-**Description:**
+**Description:<br>**
 This employee attrition analysis project explores organizational workforce data to uncover key drivers of employee turnover. The SQL queries are created for data cleaning and data analysing.
 
 [Employee Attrition Analysis](https://github.com/JD-Insight/Data-Science-Projects/tree/main/Advanced%20SQL%20for%20Data%20Analysis)
 
-**Skills:**
-Core SQL - Data Retrieving, Data Cleaning and Filtering, Handling NULLs, Sorting and Grouping, Aggregate Functions
-Advanced Querying - Joins, Case Statement, Subqueries, Common Table Expressions (CTEs), Window Functions
-Data Modeling and Management - Constraints, Views, Temporary Tables, Indexes, SP
+**Skills:<br>**
+Core SQL - Data Retrieving, Data Cleaning and Filtering, Handling NULLs, Sorting and Grouping, Aggregate Functions<br>
+Advanced Querying - Joins, Case Statement, Subqueries, Common Table Expressions (CTEs), Window Functions<br>
+Data Modeling and Management - Constraints, Views, Temporary Tables, Indexes, SP<br>
 
 **Technology:**
 Python, SQL Language, MySQL
