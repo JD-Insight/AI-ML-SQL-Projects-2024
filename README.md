@@ -31,3 +31,16 @@ Data cleaning, data analysis, data visualization.
 Excel, Power Query, Power Pivot, DAX, Pivot Tables.
 
 **Company Employees - SQL Project**
+
+**Description:**
+This employee attrition analysis project explores organizational workforce data to uncover key drivers of employee turnover. The SQL queries are created for data cleaning and data analysing.
+
+[Employee Attrition Analysis](https://github.com/JD-Insight/Data-Science-Projects/tree/main/Advanced%20SQL%20for%20Data%20Analysis)
+
+**Skills:**
+Core SQL - Data Retrieving, Data Cleaning and Filtering, Handling NULLs, Sorting and Grouping, Aggregate Functions
+Advanced Querying - Joins, Case Statement, Subqueries, Common Table Expressions (CTEs), Window Functions
+Data Modeling and Management - Constraints, Views, Temporary Tables, Indexes, SP
+
+**Technology:**
+Python, SQL Language, MySQL
