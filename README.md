@@ -1,7 +1,7 @@
 # Portfolio Projects
 This repository contains self-initiated data science projects aimed at enhancing my expertise in project-based learning.
 
-**Stock Price Prediction**
+<u>Stock Price Prediction</u>
 
 **Description:**
 The primary objective of this project is to analyze stock price trends over time, develop a predictive model to forecast closing prices, evaluate its performance using key metrics, and derive actionable insights through data visualization.
@@ -16,6 +16,7 @@ Python, Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn
 
 **Result:**
 Python functions are used to analyze the data and predict the closing price. The model generalized well and was able to predict the values close to the actuals.
+
 
 **Product Sales Data Analysis**
 
