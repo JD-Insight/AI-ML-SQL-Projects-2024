@@ -1,8 +1,8 @@
 # Portfolio Projects
 This repository contains self-initiated data science projects aimed at enhancing my expertise in project-based learning.
 
-<U>Stock Price Prediction</U>
-<p style="color:blue; font-weight:bold;">This is blue bold text</p>
+<em>Stock Price Prediction</em>
+
 **Description:**
 The primary objective of this project is to analyze stock price trends over time, develop a predictive model to forecast closing prices, evaluate its performance using key metrics, and derive actionable insights through data visualization.
 
