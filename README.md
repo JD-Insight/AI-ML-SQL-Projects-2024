@@ -17,7 +17,6 @@ Python, Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn
 **Result:**
 Python functions are used to analyze the data and predict the closing price. The model generalized well and was able to predict the values close to the actuals.
 
-
 **Product Sales Data Analysis**
 
 **Description:<br>**
@@ -30,7 +29,6 @@ Data cleaning, data analysis, data visualization.
 
 **Technology:**
 Excel, Power Query, Power Pivot, DAX, Pivot Tables.
-
 
 **Company Employees - SQL Project**
 
