@@ -3,18 +3,18 @@ This repository contains self-initiated data science projects aimed at enhancing
 
 **Stock Price Prediction**
 
-<em>Description:</em><br>
+Description:<br>
 The primary objective of this project is to analyze stock price trends over time, develop a predictive model to forecast closing prices, evaluate its performance using key metrics, and derive actionable insights through data visualization.
 
 [Price Prediction](https://github.com/JD-Insight/Data-Science-Projects/blob/main/Price%20Prediction%20Project.ipynb)
 
-<em>Skills</em><br>
+Skills:<br>
 Data cleaning, exploratory data analysis, data visualization, correlation, linear regression, performance metrices, cross validation.
 
-<em>Technology</em><br>
+Technology:<br>
 Python, Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn
 
-<strong>Result</strong>
+Result:<br>
 Python functions are used to analyze the data and predict the closing price. The model generalized well and was able to predict the values close to the actuals.
 
 
