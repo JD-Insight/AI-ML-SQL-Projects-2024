@@ -43,4 +43,4 @@ Advanced Querying - Joins, Case Statement, Subqueries, Common Table Expressions 
 Data Modeling and Management - Constraints, Views, Temporary Tables, Indexes, SP<br>
 
 **Technology:**
-Python, SQL Language, MySQL
+Python, Jupyter Notebook, SQL Language, MySQL
