@@ -29,3 +29,5 @@ Data cleaning, data analysis, data visualization.
 
 **Technology:**
 Excel, Power Query, Power Pivot, DAX, Pivot Tables.
+
+**Company Employees - SQL Project**
