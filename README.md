@@ -33,7 +33,7 @@ Excel, Power Query, Power Pivot, DAX, Pivot Tables.
 **Company Employees - SQL Project**
 
 **Description:<br>**
-This employee attrition analysis project explores organizational workforce data to uncover key drivers of employee turnover. The SQL queries are created for data cleaning and data analysing.
+HR analytics, also referred to as people analytics, workforce analytics, or talent analytics, involves gathering together, analyzing, and reporting HR data. It is the collection and application of talent data to improve critical talent and business outcomes. It enables your organization to measure the impact of a range of HR metrics on overall business performance and make decisions based on data. They are primarily responsible for interpreting and analyzing vast datasets.
 
 [Employee Attrition Analysis](https://github.com/JD-Insight/Data-Science-Projects/tree/main/Advanced%20SQL%20for%20Data%20Analysis)
 
