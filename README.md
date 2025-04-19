@@ -28,7 +28,7 @@ The dataset contains a list of sales records along with other relevant informati
 Data cleaning, data analysis, data visualization.
 
 **Technology:**
-Excel, Power Query, Power Pivot, DAX, Pivot Tables.
+Excel, Power Query, DAX, Pivot Tables.
 
 **Company Employees - SQL Project**
 
