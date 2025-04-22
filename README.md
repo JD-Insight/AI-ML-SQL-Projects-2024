@@ -35,12 +35,13 @@ Excel, Power Query, DAX, Pivot Tables.
 **Description:<br>**
 HR analytics, also referred to as people analytics, workforce analytics, or talent analytics, involves gathering together, analyzing, and reporting HR data. It is the collection and application of talent data to improve critical talent and business outcomes. It enables your organization to measure the impact of a range of HR metrics on overall business performance and make decisions based on data. They are primarily responsible for interpreting and analyzing vast datasets.
 
-[Employee Attrition Analysis](https://github.com/JD-Insight/Data-Science-Projects/tree/main/Advanced%20SQL%20for%20Data%20Analysis)
+[Employee Attrition Analysis](https://github.com/JD-Insight/Data-Science-Projects/tree/main/Advanced%20SQL%20for%20Analysis)
 
 **Skills:<br>**
 Core SQL - Data Retrieving, Data Cleaning and Filtering, Handling NULLs, Sorting and Grouping, Aggregate Functions<br>
 Advanced Querying - Joins, Case Statement, Subqueries, Common Table Expressions (CTEs), Window Functions<br>
-Data Modeling and Management - Constraints, Views, Temporary Tables, Indexes, SP<br>
+Data Modeling and Management - Constraints, Views, Temporary Tables<br>
+Procedural SQL - Stored Procedures, Triggers<br>
 
 **Technology:**
 Python, SQL
