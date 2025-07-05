@@ -17,7 +17,20 @@ Python, Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn
 **Result:**
 Python functions are used to analyze the data and predict the closing price. The model generalized well and was able to predict the values close to the actuals.
 
+**Ensemble-Based Customer Purchase Prediction for Travel Package Marketing**
 
+**Description:<br>**
+The objective was to support the marketing team in segmenting and targeting customers efficiently, using predictive analytics rooted in past customer behavior, demographics, and transactional data. The ensemble approach combined the predictive strengths of Random Forest, Gradient Boosting, and Logistic Regression models through stacking to improve accuracy and minimize overfitting.
+
+**Skills:**
+Predictive Modeling, EDA, Feature Engineering, Bivariate Analysis, Model Evaluation, Decision Tree, Random Forest, Bagging, AdaBooster, Gradient Boosting, XGBoost, Stacking
+
+**Technology:**
+Python, Numpy, Pandas, Seaborn, Scikit-Learn, XGBoost, Matplotlib
+
+**Result:**
+1. Customers with passports, from tier 1/3 cities, and those who received more follow-ups are more likely to purchase—targeted strategies should focus on these segments.<br>
+2. High-income professionals, couples, families, and tier 2 city residents are less responsive—offering customized or luxury packages and expanding outreach may improve conversions.
 
 **Company Employees - SQL Project**
 
