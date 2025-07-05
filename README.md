@@ -48,7 +48,7 @@ Data Modeling and Management -- Constraints, Views, Temporary Tables<br>
 Procedural SQL -- Stored Procedures<br>
 
 **Technology:**
-Python, SQL, PostGreSQL
+Python, SQL, PostgreSQL
 
 **Product Sales Data Analysis**
 
