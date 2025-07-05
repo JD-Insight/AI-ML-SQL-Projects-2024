@@ -45,7 +45,7 @@ HR analytics, also referred to as people analytics, workforce analytics, or tale
 Core SQL -- Data Retrieving, Data Cleaning and Filtering, Handling NULLs, Sorting and Grouping, Aggregate Functions<br>
 Advanced Querying -- Joins, Case Statement, Subqueries, Common Table Expressions (CTEs), Window Functions<br>
 Data Modeling and Management -- Constraints, Views, Temporary Tables<br>
-Procedural SQL -- Stored Procedures, Triggers<br>
+Procedural SQL -- Stored Procedures<br>
 
 **Technology:**
 Python, SQL, PostGreSQL
