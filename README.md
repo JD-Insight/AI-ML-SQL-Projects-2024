@@ -22,6 +22,8 @@ Python functions are used to analyze the data and predict the closing price. The
 **Description:<br>**
 The objective was to support the marketing team in segmenting and targeting customers efficiently, using predictive analytics rooted in past customer behavior, demographics, and transactional data. The ensemble approach combined the predictive strengths of Random Forest, Gradient Boosting, and Logistic Regression models through stacking to improve accuracy and minimize overfitting.
 
+[Travel Package Marketing](https://github.com/JD-Insight/AI-ML-SQL-Projects-2024/blob/main/Ensemble-Based%20Customer%20Purchase%20Prediction/Ensemble-Based%20Customer%20Purchase%20Prediction%20for%20Travel%20Package%20Marketing.ipynb)
+
 **Skills:**
 Predictive Modeling, EDA, Feature Engineering, Bivariate Analysis, Model Evaluation, Decision Tree, Random Forest, Bagging, AdaBooster, Gradient Boosting, XGBoost, Stacking
 
