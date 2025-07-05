@@ -42,13 +42,13 @@ HR analytics, also referred to as people analytics, workforce analytics, or tale
 [Employee Attrition Analysis](https://github.com/JD-Insight/AI-ML-SQL-Projects-2024/tree/main/Advanced%20SQL%20for%20Analysis)
 
 **Skills:<br>**
-Core SQL - Data Retrieving, Data Cleaning and Filtering, Handling NULLs, Sorting and Grouping, Aggregate Functions<br>
-Advanced Querying - Joins, Case Statement, Subqueries, Common Table Expressions (CTEs), Window Functions<br>
-Data Modeling and Management - Constraints, Views, Temporary Tables<br>
-Procedural SQL - Stored Procedures, Triggers<br>
+Core SQL:            Data Retrieving, Data Cleaning and Filtering, Handling NULLs, Sorting and Grouping, Aggregate Functions<br>
+Advanced Querying:   Joins, Case Statement, Subqueries, Common Table Expressions (CTEs), Window Functions<br>
+Data Modeling and Management: Constraints, Views, Temporary Tables<br>
+Procedural SQL:      Stored Procedures, Triggers<br>
 
 **Technology:**
-Python, SQL
+Python, SQL, PostGreSQL
 
 **Product Sales Data Analysis**
 
